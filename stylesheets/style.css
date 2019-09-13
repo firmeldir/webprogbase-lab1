@@ -1,0 +1,40 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  background-color: white;  
+}
+
+.profile_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 320px;
+    border-radius: 300px;
+    border: 7px solid black;
+  }
+
+
+  .menu a:hover  {
+    background-color: grey;
+}
+
+.menu  {
+  text-align:center;
+}
+
+  .info_text {
+    text-align: center;
+  }
+
+  .menu_element{
+    display:inline;
+  }
+
+th, td {
+    padding: 10px 15px;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
